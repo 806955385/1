@@ -1,0 +1,15 @@
+用户注册：
+zhuce.jsp:
+<( page contentType="text/html;charset=GB2312"><HTML><BODY ><Font size=3>
+请注册：
+<FORM action="zhucel.jsp" method=post
+<table border=1>
+<tr><td><font size=2>用户名：</font></td>
+<td><Input type="text" name="username"></td> </tr>
+<tr><td><font size=2>密码：</font></td>
+<td><Input type="password" name="password"</td> </tr>
+<tr><td><font size=2>性别：</font></td>
+<td><Input type="text" name="sex"</td> </tr>
+<tr><td><font size=2>年龄：</font></td>
+<td><Input type="text" name="age"></td> </tr>
+</table>
